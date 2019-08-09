@@ -10,3 +10,5 @@ Adding Git Rebase lectures in git advanced part. We have done so much of lecture
 A lot of lecture are already sumitted.
 
 Sample website with plenty of files for demos
+
+Adding new lectures of stash
